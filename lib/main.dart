@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 void main() {
   runApp(const MoveMindApp());
 }
-
+ 
 class MoveMindApp extends StatelessWidget {
   const MoveMindApp({super.key});
 
